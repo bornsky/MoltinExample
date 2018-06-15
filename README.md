@@ -5,5 +5,5 @@ This demo app was done on version 2 of Moltin. They are now on version 3. The sy
 
 # Installation
 The first thing you want to do is go to [Moltin](https://dashboard.moltin.com/signup) and sign up to get your client_id and public_key. 
-Git clone the project and add a Keys.plist file to you project and insert your client_id keys.
+Git clone the project and add a Keys.plist file to you project and insert your Client_ID keys.
 
