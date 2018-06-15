@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.5.0)
+  - Gloss (2.0.0)
+  - Moltin (2.0.0):
+    - Alamofire (= 4.5.0)
+    - Gloss (~> 2.0.0)
+
+DEPENDENCIES:
+  - Moltin (from `https://github.com/moltin/ios-sdk.git`, branch `v2`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Gloss
+
+EXTERNAL SOURCES:
+  Moltin:
+    :branch: v2
+    :git: https://github.com/moltin/ios-sdk.git
+
+CHECKOUT OPTIONS:
+  Moltin:
+    :commit: 45ee0848bd6b278a4c2143a9e89e4cbe377cf3d1
+    :git: https://github.com/moltin/ios-sdk.git
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  Gloss: b67617f327406adfd47adf20172d00680a3a31bd
+  Moltin: 811b0fa42599de1d4667d7ae13fdae44ca87c1ce
+
+PODFILE CHECKSUM: 65a56d32c0b124785e8ad8d42bd2b06f6fa1d7db
+
+COCOAPODS: 1.5.3
