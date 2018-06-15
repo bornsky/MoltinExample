@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             keys = NSDictionary(contentsOfFile: path)
             
             if let dict = keys {
-                let path = dict["MOLTIN_STORE_ID"] as! String
+                let path = dict["Client_ID"] as! String
                 
                 Moltin.clientID = path
             }
